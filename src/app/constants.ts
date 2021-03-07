@@ -7,6 +7,7 @@ export const CORSProxyList = {
   drysierra94326: 'http://dry-sierra-94326.herokuapp.com/',
   thingproxy: 'https://thingproxy.freeboard.io/fetch/',
   corsnowsh: 'https://cors.now.sh/',
+  local: 'http://localhost:5667/',
   freecorsproxy: 'https://free-cors-proxy.herokuapp.com',
   corsproxyourbuildo: 'https://corsproxy.our.buildo.io',
   corsifyme: 'http://www.corsify.me/',
